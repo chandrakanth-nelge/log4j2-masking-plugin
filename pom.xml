@@ -5,7 +5,7 @@
 
 	<name>log4j2-masking-plugin</name>
 	<description>log4j2-masking-plugin</description>
-	<groupId>com.nel.chan</groupId>
+	<groupId>com.chan.nel</groupId>
 	<artifactId>log4j2-masking-plugin</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
